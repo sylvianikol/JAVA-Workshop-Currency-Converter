@@ -1,0 +1,4 @@
+BGN
+USD
+EUR
+JPY
